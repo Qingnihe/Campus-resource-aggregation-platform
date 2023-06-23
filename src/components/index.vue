@@ -1,0 +1,6 @@
+
+<template>
+    <MainPage />
+</template>
+
+
